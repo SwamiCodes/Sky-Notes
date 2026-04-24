@@ -1,2 +1,2 @@
 # Sky-Notes
-This is a Demo for Git &amp; Github Class
+This is a Demo for Git &amp; Github Class.
